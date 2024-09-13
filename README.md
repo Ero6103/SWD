@@ -9,7 +9,7 @@ Sie ist als MVC implementiert.
 - MariaDB
 
 ## Datenbank
-DIe DB ist eine Maria DB mit 250 Cocktails und REzepten.
+Die DB ist eine Maria DB mit 250 Cocktails und Rezepten.
 
 ## Bechreibung der GUI
 
